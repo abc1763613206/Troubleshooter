@@ -1,0 +1,2 @@
+# Troubleshooter
+一个关于Magisk和Android的Troubleshooter，来自于QQ群@698016310
